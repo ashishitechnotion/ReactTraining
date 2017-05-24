@@ -19,3 +19,7 @@ https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-expres
 POST DATA
 
 https://html5hive.org/how-to-submit-forms-and-save-data-with-react-js-and-node-js/
+
+Project Structure
+
+https://daveceddia.com/react-project-structure/

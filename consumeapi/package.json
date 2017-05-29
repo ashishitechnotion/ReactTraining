@@ -1,5 +1,10 @@
 {
-  "name": "calculator",
+  "name": "consumeapi",
+  "browserify": {
+        "transform": [
+            ["reactify", {"es6": true}]
+        ]
+    },
   "version": "0.1.0",
   "private": true,
   "dependencies": {

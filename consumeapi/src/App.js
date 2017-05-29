@@ -66,6 +66,7 @@ class App extends Component {
 
     const {loading} = this.state;
 
+    // display loading if data is not ready to serve
     if (loading) {
       return <div className="loading">loading..</div>; // render null when app is not ready
     }

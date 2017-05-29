@@ -22,7 +22,9 @@ https://medium.com/@patriciolpezjuri/using-create-react-app-with-react-router-ex
 
 https://github.com/reactjs/react-router-tutorial/
 
-POST DATA
+GET POST DATA
+
+https://github.github.io/fetch/
 
 https://html5hive.org/how-to-submit-forms-and-save-data-with-react-js-and-node-js/
 

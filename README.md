@@ -53,3 +53,7 @@ http://blog.apptension.com/2017/04/04/how-to-use-redux/
 React Redux CRUD app
 
 https://github.com/rajaraodv/react-redux-blog
+
+Github Deployment
+
+https://medium.freecodecamp.com/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089

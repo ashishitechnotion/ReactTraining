@@ -58,4 +58,5 @@ Github Deployment
 
 https://medium.freecodecamp.com/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089
 
-[22 React Opensource Projects] (https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f)
+[22 React Opensource Projects](https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f)
+

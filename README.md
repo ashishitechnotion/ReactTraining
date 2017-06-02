@@ -60,3 +60,7 @@ https://medium.freecodecamp.com/surge-vs-github-pages-deploying-a-create-react-a
 
 [22 React Opensource Projects](https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f)
 
+React Native references
+
+https://github.com/just-team/
+

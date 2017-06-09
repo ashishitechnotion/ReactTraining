@@ -64,3 +64,7 @@ React Native references
 
 https://github.com/just-team/
 
+Authentication for node js
+
+http://passportjs.org/
+

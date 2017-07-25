@@ -50,6 +50,8 @@ Redux
 
 http://blog.apptension.com/2017/04/04/how-to-use-redux/
 
+https://github.com/happypoulp/redux-tutorial/wiki
+
 React Redux CRUD app
 
 https://github.com/rajaraodv/react-redux-blog
